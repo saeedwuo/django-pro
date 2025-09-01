@@ -2,3 +2,6 @@ Django>=5.1,<5.3
 gunicorn
 python-decouple
 pillow
+djangorestframework
+markdown 
+django-filter 
